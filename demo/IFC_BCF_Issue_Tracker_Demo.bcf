@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup Version="3.0">
+  <Header>
+    <File IfcProject="IFC BCF Issue Tracker Demo Project" isExternal="true">
+      <Filename>DemoReviewModel.ifc</Filename>
+      <Date>2026-04-23T14:45:00Z</Date>
+      <Reference>Demo file for Apple App Review. No private project data is included.</Reference>
+    </File>
+  </Header>
+  <Topic Guid="8f4b51f4-26d6-44a0-bd4a-9d9b58a2a891" TopicType="Issue" TopicStatus="Open">
+    <Title>Demo coordination issue</Title>
+    <Priority>Medium</Priority>
+    <Index>1</Index>
+    <Labels>
+      <Label>Demo</Label>
+      <Label>App Review</Label>
+    </Labels>
+    <CreationDate>2026-04-23T14:45:00Z</CreationDate>
+    <CreationAuthor>App Review Demo</CreationAuthor>
+    <ModifiedDate>2026-04-23T14:45:00Z</ModifiedDate>
+    <ModifiedAuthor>App Review Demo</ModifiedAuthor>
+    <AssignedTo>Reviewer</AssignedTo>
+    <Description>This is a small non-confidential BCF issue file for testing IFC BCF Issue Tracker import, editing, comments, and export workflows.</Description>
+  </Topic>
+  <Comments>
+    <Comment Guid="f347b79f-7ca7-4b68-9e90-70e625a6b2d2" Author="App Review Demo" Date="2026-04-23T14:46:00Z">
+      <Comment>This demo comment can be viewed in the Comments tab and included in exported reports.</Comment>
+    </Comment>
+  </Comments>
+</Markup>
